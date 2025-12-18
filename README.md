@@ -3,6 +3,9 @@
 This project predicts the winner of a Counter-Strike 2 match
 (CT side or T side) using machine learning.
 
+<img width="960" height="600" alt="Counter-strike 2 Screenshot 2025 12 13 - 14 18 21 22" src="https://github.com/user-attachments/assets/b66bc960-cc1f-4e3d-872e-8497f360d34a" />
+
+
 ## 🚀 Problem Statement
 Given match statistics such as economy, kills, round score, and map,
 the model predicts which side is more likely to win the match.
